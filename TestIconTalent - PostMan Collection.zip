@@ -1,0 +1,93 @@
+{
+	"info": {
+		"_postman_id": "0257b5c7-2ebe-4f3c-9d42-d0d6b2d6944f",
+		"name": "TesteIconTalent",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "MLB832035381",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.mercadolibre.com/items/MLB832035381",
+					"protocol": "https",
+					"host": [
+						"api",
+						"mercadolibre",
+						"com"
+					],
+					"path": [
+						"items",
+						"MLB832035381"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "MLB938457671",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.mercadolibre.com/items/MLB938457671",
+					"protocol": "https",
+					"host": [
+						"api",
+						"mercadolibre",
+						"com"
+					],
+					"path": [
+						"items",
+						"MLB938457671"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "MLB691669454",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.mercadolibre.com/items/MLB691669454",
+					"protocol": "https",
+					"host": [
+						"api",
+						"mercadolibre",
+						"com"
+					],
+					"path": [
+						"items",
+						"MLB691669454"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "MLB837523349",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.mercadolibre.com/items/MLB837523349",
+					"protocol": "https",
+					"host": [
+						"api",
+						"mercadolibre",
+						"com"
+					],
+					"path": [
+						"items",
+						"MLB837523349"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
